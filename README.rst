@@ -4,7 +4,7 @@ Facebook API for Python
 
 This is a simple facebook API for acessing the Graph API from Facebook.
 
-To know more abou Facebook Graph API Acess:
+To know more about Facebook Graph API Acess:
 
 https://developers.facebook.com/docs/graph-api/reference/
 
